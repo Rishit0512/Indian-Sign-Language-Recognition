@@ -14,7 +14,6 @@ GestureGo is a web application that enables real-time recognition of Indian Sign
 ### Model Training
 
 - Model training scripts and notebooks are in [`modelTrainning/`](modelTrainning/Untitled2.ipynb).
-- Pre-trained models are stored in `public/models/`.
 
 ## Usage
 
